@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: d52da36adfd254f4f8667811cea47cf4
+timeCreated: 1511096479
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Knife_blade_Cube_1
+    100004: Knife_body_Cube
+    100006: Knife_body_handle
+    100008: knife_mesh_body_1
+    100010: knife_mesh_Cube_11
+    100012: knife_mesh_opener2_opener3
+    100014: knife_mesh_screw
+    100016: knife_mesh_screw1
+    100018: knife_mesh_screw2
+    100020: knife_mesh_screw3
+    100022: knife_mesh_screw4
+    100024: knife_mesh_screw5
+    100026: Knife_opener_opener1
+    100028: Knife_Sphere
+    100030: Knife_Sphere_1
+    100032: Knife_Sphere_2
+    100034: Knife_Sphere_3
+    100036: Knife_Sphere_4
+    100038: Knife_Sphere_5
+    400000: //RootNode
+    400002: Knife_blade_Cube_1
+    400004: Knife_body_Cube
+    400006: Knife_body_handle
+    400008: knife_mesh_body_1
+    400010: knife_mesh_Cube_11
+    400012: knife_mesh_opener2_opener3
+    400014: knife_mesh_screw
+    400016: knife_mesh_screw1
+    400018: knife_mesh_screw2
+    400020: knife_mesh_screw3
+    400022: knife_mesh_screw4
+    400024: knife_mesh_screw5
+    400026: Knife_opener_opener1
+    400028: Knife_Sphere
+    400030: Knife_Sphere_1
+    400032: Knife_Sphere_2
+    400034: Knife_Sphere_3
+    400036: Knife_Sphere_4
+    400038: Knife_Sphere_5
+    2300000: Knife_blade_Cube_1
+    2300002: Knife_body_Cube
+    2300004: Knife_body_handle
+    2300006: knife_mesh_body_1
+    2300008: knife_mesh_Cube_11
+    2300010: knife_mesh_opener2_opener3
+    2300012: knife_mesh_screw
+    2300014: knife_mesh_screw1
+    2300016: knife_mesh_screw2
+    2300018: knife_mesh_screw3
+    2300020: knife_mesh_screw4
+    2300022: knife_mesh_screw5
+    2300024: Knife_opener_opener1
+    2300026: Knife_Sphere
+    2300028: Knife_Sphere_1
+    2300030: Knife_Sphere_2
+    2300032: Knife_Sphere_3
+    2300034: Knife_Sphere_4
+    2300036: Knife_Sphere_5
+    3300000: Knife_blade_Cube_1
+    3300002: Knife_body_Cube
+    3300004: Knife_body_handle
+    3300006: knife_mesh_body_1
+    3300008: knife_mesh_Cube_11
+    3300010: knife_mesh_opener2_opener3
+    3300012: knife_mesh_screw
+    3300014: knife_mesh_screw1
+    3300016: knife_mesh_screw2
+    3300018: knife_mesh_screw3
+    3300020: knife_mesh_screw4
+    3300022: knife_mesh_screw5
+    3300024: Knife_opener_opener1
+    3300026: Knife_Sphere
+    3300028: Knife_Sphere_1
+    3300030: Knife_Sphere_2
+    3300032: Knife_Sphere_3
+    3300034: Knife_Sphere_4
+    3300036: Knife_Sphere_5
+    4300000: Knife_blade_Cube_1
+    4300002: Knife_body_Cube
+    4300004: Knife_body_handle
+    4300006: knife_mesh_body_1
+    4300008: knife_mesh_Cube_11
+    4300010: knife_mesh_opener2_opener3
+    4300012: knife_mesh_screw
+    4300014: knife_mesh_screw1
+    4300016: knife_mesh_screw2
+    4300018: knife_mesh_screw3
+    4300020: knife_mesh_screw4
+    4300022: knife_mesh_screw5
+    4300024: Knife_opener_opener1
+    4300026: Knife_Sphere
+    4300028: Knife_Sphere_1
+    4300030: Knife_Sphere_2
+    4300032: Knife_Sphere_3
+    4300034: Knife_Sphere_4
+    4300036: Knife_Sphere_5
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife_SphereMat
+    second: {fileID: 2100000, guid: 677329056b969484f9c2266a229bb6df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife_Sphere_1Mat
+    second: {fileID: 2100000, guid: d761e27109b55442395d7d448fcf3606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife_Sphere_2Mat
+    second: {fileID: 2100000, guid: 5f990988cb7784e13b2ea27aa7c8afa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife_Sphere_3Mat
+    second: {fileID: 2100000, guid: 86f46e50c16ec494f971ad6b545e4f01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife_Sphere_4Mat
+    second: {fileID: 2100000, guid: 63a5f7aafbc3a4ee0b0e5e97d74b9b67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife_Sphere_5Mat
+    second: {fileID: 2100000, guid: 7be61ca9ca2b741eb83494bbfc0ff0eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife_blade_Cube_1Mat
+    second: {fileID: 2100000, guid: 70186ef28ffc149d2991e28264c2ab1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife_body_CubeMat
+    second: {fileID: 2100000, guid: 241c8badfd55c44718153bf90caae2f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife_body_handleMat
+    second: {fileID: 2100000, guid: 8f33e807e74b246d6af638fb80483554, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife_opener_opener1Mat
+    second: {fileID: 2100000, guid: 63aaab6e4301244399e9bdfe8019020c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: knife_mesh_Cube_11Mat
+    second: {fileID: 2100000, guid: 7163ed362fc0f424aa1a0e7a1fa19817, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: knife_mesh_body_1Mat
+    second: {fileID: 2100000, guid: 80c9953785a3e415399c25ef792bb136, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: knife_mesh_opener2_opener3Mat
+    second: {fileID: 2100000, guid: 2ba9676ec245544348e34441239683fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: knife_mesh_screw1Mat
+    second: {fileID: 2100000, guid: e1f04a313a2bf436682e1f7093f4bd12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: knife_mesh_screw2Mat
+    second: {fileID: 2100000, guid: aec5b17bdeb64456eb179dbcd6c7da61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: knife_mesh_screw3Mat
+    second: {fileID: 2100000, guid: a778ad47e40234dec8128678bdecc59a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: knife_mesh_screw4Mat
+    second: {fileID: 2100000, guid: e8986afc0a19742f5bcbfc06aa383308, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: knife_mesh_screw5Mat
+    second: {fileID: 2100000, guid: 5fa69a08ca45d4a9bb577bf9731c3060, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: knife_mesh_screwMat
+    second: {fileID: 2100000, guid: 0f6d9d589e80342859eb94832bbe366d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
