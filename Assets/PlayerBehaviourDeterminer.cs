@@ -8,15 +8,18 @@ public class PlayerBehaviourDeterminer : MonoBehaviour
 		{"Headphones", "Pocket Knives", "Katana", "Glasses"/*, "Textbook", "Magazine"*/};
 
 	public GameObject[] accesories;
-	
+
+	public bool IsSchoolStabber { get; set; }
+
 	private String personsBehaviour;
 	// Use this for initialization
 	void Start ()
 	{
 		/*int randomIndex = UnityEngine.Random.Range(0, behavioursArray.Length + 1);
 		personsBehaviour = randomIndex == behavioursArray.Length ? "Nothing" : behavioursArray[randomIndex];*/
-
+		
 		for (int i = 0; i < accesories.Length; i++) accesories[i].active = UnityEngine.Random.Range(0, 4) == 0;
+		
 		
 		/*switch (personsBehaviour)
 		{
